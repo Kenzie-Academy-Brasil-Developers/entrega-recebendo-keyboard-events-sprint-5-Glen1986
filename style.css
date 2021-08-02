@@ -1,0 +1,17 @@
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#box {
+  background-image: url(./img/mixing.jpg);
+  background-position: center;
+
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
